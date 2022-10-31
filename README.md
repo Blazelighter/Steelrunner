@@ -1,12 +1,9 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 This is my first unity project I've begun working on, and so it may be a little barebones at first. As time goes on and I learn how to better use unity, I hope to keep updating this game to include more features and polish.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
 The game itself is fairly simple. It's a platformer in which the player can pull and push themselves towards certain objects (currently marked by the color blue). To play, you use the directional arrow keys (or wasd if you prefer) to move the character left and right, but if you click on the blue objects with your mouse, you can pull yourself towards the object with a right click, and push yourself off with a left click.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
